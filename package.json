@@ -1,0 +1,20 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "description": "testing node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khanos/node-tut.git"
+  },
+  "author": "@khanostech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khanos/node-tut/issues"
+  },
+  "homepage": "https://github.com/Khanos/node-tut#readme"
+}
